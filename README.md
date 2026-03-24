@@ -17,14 +17,6 @@ This project was built as part of revising core front-end development concepts.
 * Reset button to restore default styles
 * Simple and interactive UI
 
-## 📸 Preview
-
-![Screenshot](screenshot.png)
-
-## 🔗 Live Demo
-
-(Add your Netlify / GitHub Pages link here)
-
 ## 📚 What I Practiced
 
 * DOM selection using `querySelector`
